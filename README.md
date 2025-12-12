@@ -67,6 +67,3 @@ I am especially interested in modern web development and good architecture.
 - 📧 [jo.stjernholm@gmail.com](mailto:jo.stjernholm@gmail.com)
 - 🌐 Portfolio: Coming soon
 
----
-
-⭐️ Thanks for visiting my profile!
