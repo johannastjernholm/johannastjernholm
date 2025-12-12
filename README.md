@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I am Johanna!
 
-<!--
-**johannastjernholm/johannastjernholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 .NET & Frontend Developer  
+🎓 Web Development student (YH)  
+🚀 Building web applications with .NET and React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 💁‍♀️
+
+I am a web developer who enjoys building **full-stack web applications**, from user interface to backend and database.
+
+I like working in a structured way and turning requirements into clean, working solutions.  
+I am especially interested in modern web development and good architecture.
+
+---
+
+## Tech stack ✨
+
+**Frontend**
+- React
+- TypeScript
+- Vite
+- CSS / Tailwind
+
+**Backend**
+- .NET / ASP.NET Core
+- Web/Rest API
+- Entity Framework Core
+- MediatR
+
+**Database**
+- SQL Server
+- Azure SQL
+
+**Tools**
+- Git & GitHub
+- Azure
+- Visual Studio / VS Code / Cursor 
+- Postman / Swagger / Scalar for testing API's
+
+---
+
+## Current focus 🤓
+
+- Improving my .NET skills building a fullstack GDPR Portal for customers to request GDPR case to a company 
+- Learning more about UI/UX and accessibility
+- Growing my developer portfolio
+
+---
+
+## 📫 Contact me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/johannastjernholm/)
+- 📧 [Email](jo.stjernholm@gmail.com)
+- 🌐 Portfolio: Coming soon
+
+---
+
+⭐️ Thanks for visiting my profile!
