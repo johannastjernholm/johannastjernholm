@@ -56,8 +56,8 @@ I am especially interested in modern web development and good architecture.
 
 ## Current focus 🤓
 
+- Developing a .NET-based web application to digitalize horse and lesson assignments for riding schools, replacing a manual paper-based process.
 - Improving my .NET skills building a fullstack GDPR Portal for customers to request GDPR case to a company 
-- Learning more about UI/UX and accessibility
 - Growing my developer portfolio
 
 ---
