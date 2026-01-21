@@ -1,15 +1,15 @@
 # Hi, I am Johanna!
 
-💻 .NET & Frontend Developer  
+💻 A frontend developer & a aspiring .NET developer. <br/>
 🎓 Web Developer student (YH). [Frontend Developer graduate of 2024](https://ecutbildning.se/utbildningar/frontendutvecklare-distans/#kursplan) <br/>
 	& [.NET Web Developer ongoing - 2026](https://ecutbildning.se/utbildningar/webbutvecklare-inom-net/#kursplan) <br/>
-🚀 Building web applications with .NET and React  
+🚀 Building web applications with ReactJs & ASP.NET 
 
 ---
 
 ## About me 💁‍♀️
 
-I am a web developer who enjoys building **full-stack web applications**, from user interface to backend and database.
+I am a web developer who enjoys building **full-stack web applications**, from user interface to backend databases and API setup.
 
 I like working in a structured way and turning requirements into clean, working solutions.  
 I am especially interested in modern web development and good architecture.
