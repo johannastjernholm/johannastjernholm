@@ -1,7 +1,8 @@
 # Hi, I am Johanna!
 
 💻 .NET & Frontend Developer  
-🎓 Web Development student (YH). [Frontend developer graduate of 2024](https://ecutbildning.se/utbildningar/frontendutvecklare-distans/#kursplan) & [.NET Web Developer](https://ecutbildning.se/utbildningar/webbutvecklare-inom-net/#kursplan) <br/>
+🎓 Web Developer student (YH). [Frontend Developer graduate of 2024](https://ecutbildning.se/utbildningar/frontendutvecklare-distans/#kursplan) <br/>
+	& [.NET Web Developer ongoing - 2026](https://ecutbildning.se/utbildningar/webbutvecklare-inom-net/#kursplan) <br/>
 🚀 Building web applications with .NET and React  
 
 ---
