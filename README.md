@@ -65,6 +65,6 @@ I am especially interested in modern web development and good architecture.
 ## 📫 Contact me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/johannastjernholm/)
-- 📧 [jo.stjernholm@gmail.com](mailto:jo.stjernholm@gmail.com)
+- 📧 [Email](mailto:jo.stjernholm@gmail.com)
 - 🌐 Portfolio: Coming soon
 
